@@ -2,5 +2,5 @@
 ### Hash Tables
 Execute in cmd as,
 ```js
-python Hashtable.py < input.txt
+python HashTable.py < input.txt
 ```
