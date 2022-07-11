@@ -1,6 +1,6 @@
 # Data-Structures-Sem4
 ### Hash Tables
 Execute in cmd as,
-'''js
+```js
 python Hashtable.py < input.txt
-'''
+```
